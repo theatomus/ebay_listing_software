@@ -32,7 +32,7 @@ Edit `config.json` and replace each value:
   "PAYMENT_POLICY_ID": "YOUR_PAYMENT_POLICY_ID",
   "FULFILLMENT_POLICY_ID": "YOUR_FULFILLMENT_POLICY_ID",
   "RETURN_POLICY_ID": "YOUR_RETURN_POLICY_ID",
-  "MERCHANT_LOCATION_KEY": "ShawnPrimaryWarehouse"
+  "MERCHANT_LOCATION_KEY": "PrimaryWarehouse"
 }
 ```
 
@@ -89,3 +89,4 @@ The setup script:
 
 ## License
 This project is licensed under the Apache License 2.0. See `LICENSE` for details.
+
