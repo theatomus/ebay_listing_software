@@ -85,8 +85,8 @@ The setup script:
 - `setup_and_run.py` – ngrok helper, config validation, OAuth kickoff, app runner
 - `main_sell_api.py` – interactive CLI for creating scheduled/immediate listings
 - `sell_api_client.py` – Sell API client (inventory/offer/publish)
-- `lister/` – optional Flask UI (auth flow and basic pages)
 
 ## License
 This project is licensed under the Apache License 2.0. See `LICENSE` for details.
+
 
